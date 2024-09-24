@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitTest</string>
+    <string name="form_ID">ID</string>
+    <string name="form_password">Password</string>
+    <string name="form_name">Name</string>
+    <string name="form_age">Age</string>
+    <string name="button_save">SAVE</string>
+</resources>
